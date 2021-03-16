@@ -1,0 +1,32 @@
+body{
+    background:-webkit-radial-gradient(rgb(128, 190, 133), rgb(130, 156, 196), rgb(100, 129, 86));
+}
+.first{
+    background-color:#0b0223;
+    color: blanchedalmond;
+    width:500px;
+    height:500px;
+    margin-left:420px;
+    margin-right:400px;
+    margin-top:65px;
+    border-radius:10px;
+
+}
+#img{
+    border-radius:40px;
+    margin-left:160px;
+    margin-top:45px;
+}
+#h{
+    color: whitesmoke;
+    font-size: x-large;
+    text-align:center;
+    font-family: cursive;
+}
+#t{
+    color: wheat;
+    margin:5px;
+    font-family: cursive;
+    padding:30px;
+    margin-top:5px;
+}
